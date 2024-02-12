@@ -1,2 +1,2 @@
-this is just a copy of the flexbox frogy game with some changes
+this is just a copy of the Grid garden game with some changes
 <a href='https://itrun-grid.netlify.com'>ITRUN-Grid</a>
